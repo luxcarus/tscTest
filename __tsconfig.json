@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true
+  },
+  "files": [
+    "Cat.ts",
+    "Dog.ts",
+    "typings/tsd.d.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ],  
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}

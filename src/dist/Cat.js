@@ -1,6 +1,11 @@
+webpackJsonp([1],[
+/* 0 */
+/***/ (function(module, exports, __webpack_require__) {
+
 "use strict";
+
 Object.defineProperty(exports, "__esModule", { value: true });
-var Cat = (function () {
+var Cat = /** @class */ (function () {
     function Cat() {
         this.species = 'bird';
         this.canFly = false;
@@ -15,3 +20,7 @@ var Cat = (function () {
     return Cat;
 }());
 exports.Cat = Cat;
+
+
+/***/ })
+],[0]);
